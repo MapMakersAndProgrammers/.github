@@ -6,6 +6,7 @@ Resources and archives for Tanki Online and Alternativa Games, [join the discord
 - [XML format maps](https://github.com/MapMakersAndProgrammers/tanki-xml-maps)
 - [JSON format maps](https://github.com/MapMakersAndProgrammers/tanki-json-maps)
 - [BIN format maps](https://github.com/MapMakersAndProgrammers/tanki-bin-maps)
+- [Prop Libraries](https://github.com/MapMakersAndProgrammers/tanki-prop-libraries)
 - [Tanki models](https://github.com/MapMakersAndProgrammers/tanki-model-archive)
 - [Alternativa3D versions](https://github.com/MapMakersAndProgrammers/alternativa3d-archive)
 ### Tools
