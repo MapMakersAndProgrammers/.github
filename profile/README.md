@@ -9,6 +9,7 @@ Resources and archives for Tanki Online and Alternativa Games, [join the discord
 - [Prop Libraries](https://github.com/MapMakersAndProgrammers/tanki-prop-libraries)
 - [Tanki models](https://github.com/MapMakersAndProgrammers/tanki-model-archive)
 - [Alternativa3D versions](https://github.com/MapMakersAndProgrammers/alternativa3d-archive)
+- [AlternativaPhysics versions](https://github.com/MapMakersAndProgrammers/alternativaphysics-archive)
 ### Tools
 - [Alternativa Games' tools](https://github.com/MapMakersAndProgrammers/alternativa-tools)
 - [Blender plugin to import A3D 1.x and 2.x models](https://github.com/davidejones/alternativa3d_tools)
