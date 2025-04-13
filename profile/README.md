@@ -14,6 +14,7 @@ Resources and archives for Tanki Online and Alternativa Games, [join the discord
 - [Alternativa Games' tools](https://github.com/MapMakersAndProgrammers/alternativa-tools)
 - [Blender plugin to import A3D 1.x and 2.x models](https://github.com/davidejones/alternativa3d_tools)
 - [Blender plugin to import A3D 3.x models](https://github.com/MapMakersAndProgrammers/io_scene_a3d)
+- [Blender plugin to import XML maps](https://github.com/MapMakersAndProgrammers/XML-blender-addon)
 ### Misc
 - [Alternativa Games' flash demos](https://github.com/MapMakersAndProgrammers/alternativa-demos)
 - [Alternativa Editor source code](https://github.com/MapMakersAndProgrammers/alternativa-editor)
