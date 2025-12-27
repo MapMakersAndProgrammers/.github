@@ -1,5 +1,5 @@
-# Map makers and Programmers
-Resources and archives for Tanki Online and Alternativa Games, [join the discord](https://discord.gg/EPqvgcPNHx).
+# The Mapmakers and Programmers Club
+Resources and archives for Tanki Online and Alternativa Games, [join the discord](https://discord.gg/SC3WJHWCNu).
 
 ## Resources
 ### Archives
